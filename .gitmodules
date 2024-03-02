@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tripathi2002/ecommerse-api.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/tripathi2002/musical-instrument-admin.git
+[submodule "user"]
+	path = user
+	url = https://github.com/tripathi2002/musical-instrument-user.git
